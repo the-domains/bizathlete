@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BizAthlete]]></title>
         <description><![CDATA[BizAthlete]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bizathlete/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 21:42:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 22:22:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bizathlete/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A Video Welcome Mat</p>]]></description>
+            <link>https://thegrid.ai/bizathlete/35f4d902-2012-4d0a-a141-eb6d11df3c71/index.html</link>
+            <guid isPermaLink="false">35f4d902-2012-4d0a-a141-eb6d11df3c71</guid>
+            <pubDate>Fri, 15 Apr 2016 22:22:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Let's Go!Every. Single. Day.     Great ideas, needs or opportunities seem to show themselves around becoming a strong, flexible and talented person; an athlete. Technically adept, effective in influencing, emotionally intelligent, savvy, insightful, wise and fun to work with.Everyone is waiting for that person to "show up" in business.Enter you... </p>]]></description>
-            <link>undefinedebe67b04-33c3-4136-b2dc-08bd98a5d0d7/index.html</link>
+            <link>https://thegrid.ai/bizathlete/ebe67b04-33c3-4136-b2dc-08bd98a5d0d7/index.html</link>
             <guid isPermaLink="false">ebe67b04-33c3-4136-b2dc-08bd98a5d0d7</guid>
             <pubDate>Mon, 11 Apr 2016 21:42:35 GMT</pubDate>
         </item>
